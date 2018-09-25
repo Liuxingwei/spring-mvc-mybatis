@@ -1,0 +1,10 @@
+cn/liuxingwei/spring/mvc/maven/config/WebConfig.class
+cn/liuxingwei/spring/mvc/maven/config/RootConfig.class
+cn/liuxingwei/spring/mvc/maven/web/JdbcExperimentController.class
+cn/liuxingwei/spring/mvc/maven/orm/domain/UserMyBatisDao.class
+cn/liuxingwei/spring/mvc/maven/orm/mapper/UserMyBatisMapper.class
+cn/liuxingwei/spring/mvc/maven/web/UserController.class
+cn/liuxingwei/spring/mvc/maven/config/WebAppInitializer.class
+cn/liuxingwei/spring/mvc/maven/web/HomeController.class
+cn/liuxingwei/spring/mvc/maven/service/UserMyBatisService.class
+cn/liuxingwei/spring/mvc/maven/annocation/Testanno.class
